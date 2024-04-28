@@ -6,7 +6,7 @@ Metadata.
 __title__ = 'sweetrpg-library-objects'
 __description__ = 'Model objects for SweetRPG Library'
 __url__ = 'https://sweetrpg.com'
-__version__ = '0.0.374'
+__version__ = '0.0.375'
 __build__ = 0x000002
 __author__ = 'Paul Schifferer'
 __author_email__ = 'dm@sweetrpg.com'
