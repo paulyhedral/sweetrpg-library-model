@@ -18,7 +18,7 @@ blinker==1.8.2
     # via
     #   -r requirements/tests.in
     #   flask
-build==1.2.2
+build==1.2.2.post1
     # via pip-tools
 cachetools==5.5.0
     # via tox
@@ -203,9 +203,9 @@ sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
 sqlalchemy==2.0.35
     # via flask-rest-jsonapi
-sweetrpg-api-core==0.0.15
+sweetrpg-api-core==0.0.330
     # via -r requirements/pkg.in
-sweetrpg-db==0.0.138
+sweetrpg-db==0.0.139
     # via
     #   -r requirements/pkg.in
     #   sweetrpg-api-core
