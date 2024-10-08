@@ -113,9 +113,9 @@ sphinx==8.0.2
     #   sphinx-issues
     #   sphinx-tabs
     #   sphinxcontrib-log-cabinet
-sphinx-issues==3.0.1
+sphinx-issues==4.1.0
     # via -r requirements/docs.in
-sphinx-tabs==3.4.5
+sphinx-tabs==3.4.7
     # via -r requirements/docs.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
@@ -133,7 +133,7 @@ sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
 sqlalchemy==2.0.35
     # via flask-rest-jsonapi
-sweetrpg-api-core==0.0.334
+sweetrpg-api-core==0.0.335
     # via -r requirements/pkg.in
 sweetrpg-db==0.0.142
     # via
