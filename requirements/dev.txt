@@ -84,7 +84,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   werkzeug
-marshmallow==3.23.0
+marshmallow==3.23.1
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -164,7 +164,7 @@ python-dotenv==1.0.1
     # via -r requirements/tests.in
 requests==2.32.3
     # via sphinx
-rich==13.9.3
+rich==13.9.4
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -229,9 +229,9 @@ typing-extensions==4.12.2
     #   typer
 urllib3==2.2.3
     # via requests
-virtualenv==20.27.0
+virtualenv==20.27.1
     # via tox
-werkzeug==3.0.6
+werkzeug==3.1.1
     # via flask
 wheel==0.44.0
     # via pip-tools

@@ -54,7 +54,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   werkzeug
-marshmallow==3.23.0
+marshmallow==3.23.1
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -94,7 +94,7 @@ pymongo[srv]==3.13.0
     #   sweetrpg-model-core
 requests==2.32.3
     # via sphinx
-rich==13.9.3
+rich==13.9.4
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -157,5 +157,5 @@ typing-extensions==4.12.2
     #   typer
 urllib3==2.2.3
     # via requests
-werkzeug==3.0.6
+werkzeug==3.1.1
     # via flask
