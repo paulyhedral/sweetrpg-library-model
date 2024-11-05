@@ -31,7 +31,7 @@ docutils==0.21.2
     #   sphinx-tabs
 flask==3.0.3
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   flask-rest-jsonapi
     #   sweetrpg-api-core
 flask-rest-jsonapi==0.31.2
@@ -62,13 +62,13 @@ marshmallow==3.23.1
     #   sweetrpg-model-core
 marshmallow-jsonapi==0.24.0
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   flask-rest-jsonapi
 mdurl==0.1.2
     # via markdown-it-py
 mongoengine==0.29.1
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
     #   sweetrpg-db
 packaging==24.1
@@ -137,14 +137,14 @@ sphinxcontrib-serializinghtml==2.0.0
 sqlalchemy==2.0.36
     # via flask-rest-jsonapi
 sweetrpg-api-core==0.0.342
-    # via -r requirements/pkg.in
+    # via -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
 sweetrpg-db==0.0.145
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
 sweetrpg-model-core==0.0.155
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
     #   sweetrpg-db
 typer==0.12.5
@@ -157,5 +157,5 @@ typing-extensions==4.12.2
     #   typer
 urllib3==2.2.3
     # via requests
-werkzeug==3.1.1
+werkzeug==3.1.2
     # via flask

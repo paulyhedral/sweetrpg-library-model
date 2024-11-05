@@ -36,7 +36,7 @@ filelock==3.16.1
     #   virtualenv
 flask==3.0.3
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   flask-rest-jsonapi
     #   sweetrpg-api-core
 flask-rest-jsonapi==0.31.2
@@ -61,11 +61,11 @@ marshmallow==3.23.1
     #   sweetrpg-model-core
 marshmallow-jsonapi==0.24.0
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   flask-rest-jsonapi
 mongoengine==0.29.1
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
     #   sweetrpg-db
 packaging==24.1
@@ -108,14 +108,14 @@ six==1.16.0
 sqlalchemy==2.0.36
     # via flask-rest-jsonapi
 sweetrpg-api-core==0.0.342
-    # via -r requirements/pkg.in
+    # via -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
 sweetrpg-db==0.0.145
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
 sweetrpg-model-core==0.0.155
     # via
-    #   -r requirements/pkg.in
+    #   -r /home/runner/work/library-objects/library-objects/requirements/pkg.in
     #   sweetrpg-api-core
     #   sweetrpg-db
 tox==4.23.2
@@ -124,7 +124,7 @@ typing-extensions==4.12.2
     # via sqlalchemy
 virtualenv==20.27.1
     # via tox
-werkzeug==3.1.1
+werkzeug==3.1.2
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:

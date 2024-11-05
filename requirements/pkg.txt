@@ -68,5 +68,5 @@ sweetrpg-model-core==0.0.155
     #   sweetrpg-db
 typing-extensions==4.12.2
     # via sqlalchemy
-werkzeug==3.1.1
+werkzeug==3.1.2
     # via flask
